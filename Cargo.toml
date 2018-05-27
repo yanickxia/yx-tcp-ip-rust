@@ -1,0 +1,8 @@
+[package]
+name = "yx-tcp-ip-rust"
+version = "0.1.0"
+authors = ["yann <me.yan.xia@qq.com>"]
+
+[dependencies]
+libc = "0.2.41"
+
